@@ -11,6 +11,12 @@ You won't be able to submit the form until you enter correct length of password 
 [Click here to play with **Annoying Submit Button**](https://annoyingsubmitbutton.netlify.app/)
 
 ---
+## Pros
+
+**Pros**
+* Ensures valid data is entered
+* Validation of data is done beforehand rather than after clicking submit button which save the loading time of the page
+
 
 ## :writing_hand: Authors
 
